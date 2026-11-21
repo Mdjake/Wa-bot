@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 /**
  * WhatsApp bot — core only.
  *
