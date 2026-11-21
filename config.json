@@ -1,0 +1,30 @@
+{
+  "botName": "Saif Bot",
+  "ownerName": "Md Saif",
+  "ownerNumbers": [
+    "919999999999"
+  ],
+  "prefixes": [
+    "."
+  ],
+  "sessionDir": "session",
+  "dataDir": "data",
+  "mode": "public",
+  "cooldownMs": 1500,
+  "spam": {
+    "max": 12,
+    "windowMs": 10000,
+    "blockMs": 15000
+  },
+  "features": {
+    "antidelete": true,
+    "autoread": false,
+    "typing": true
+  },
+  "groupDefaults": {
+    "welcome": false,
+    "goodbye": false,
+    "antilink": "off",
+    "antivv": false
+  }
+}
